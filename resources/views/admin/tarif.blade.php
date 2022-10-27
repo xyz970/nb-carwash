@@ -49,13 +49,6 @@
     </div>
 
     <h5 class="card-header">Data Tarif</h5>
-    <div class="col-md-8" style="padding-left: 2rem; padding-bottom: 2rem">
-      <button class="btn btn-info" data-bs-toggle="modal"
-      data-bs-target="#addTransaction">
-        Tambah Data
-      </button>
-    </div>
-
     <div style="padding-left: 2rem; padding-right: 2rem; padding-bottom: 2rem; width: 100%">
         <div class="table-responsive text-nowrap">
             <table class="table" id="rateTable">
